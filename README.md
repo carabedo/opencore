@@ -25,6 +25,8 @@ Número de pieza del módulo:	CMK16GX4M2B3200C16
 Intel HD Graphics 530 (Skylake-S GT2) [S0/R0]
 Intel HD Graphics 530
 
+(soporta hasta macOs 12 monterey)
+
 ## ethernet 
 
 
