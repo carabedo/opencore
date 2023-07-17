@@ -31,6 +31,8 @@ Intel HD Graphics 530
 
 
 Rivet Networks Killer e2200 PCI-E Gigabit Ethernet Controller
+For this board remember to add AtherosE2200Ethernet.kext
+
 
 ## audio
 
