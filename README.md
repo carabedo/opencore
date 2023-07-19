@@ -37,7 +37,7 @@ For this board remember to add AtherosE2200Ethernet.kext
 ## audio
 
 RealTek ALC1150
-
+https://dortania.github.io/OpenCore-Install-Guide/config.plist/skylake.html#deviceproperties
 ## SSD
 
 KINGSTON SHFS37A240G
