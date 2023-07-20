@@ -42,3 +42,6 @@ https://dortania.github.io/OpenCore-Install-Guide/config.plist/skylake.html#devi
 
 KINGSTON SHFS37A240G
 
+## usb fix
+
+https://dortania.github.io/OpenCore-Post-Install/usb/system-preparation.html#checking-what-renames-you-need
