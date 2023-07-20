@@ -1,4 +1,7 @@
 # opencore
+## Creando el usb
+
+windows RUFUS funciona, pero no puedo bypassear el proxy
 
 ## cpu 
 cpu: Intel Core i7-6700 	Skylake-S 
