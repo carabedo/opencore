@@ -30,6 +30,9 @@ Intel HD Graphics 530
 
 (soporta hasta macOs 12 monterey)
 
+https://www.reddit.com/r/hackintosh/comments/l15mfh/cannot_boot_with_dual_monitor_intel_hd4600/
+
+
 ## ethernet 
 
 
