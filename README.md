@@ -24,6 +24,7 @@ Número de pieza del módulo:	CMK16GX4M2B3200C16
 
 ## gpu
 
+https://dortania.github.io/OpenCore-Post-Install/gpu-patching/intel-patching/#getting-started
 
 Intel HD Graphics 530 (Skylake-S GT2) [S0/R0]
 Intel HD Graphics 530
