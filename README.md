@@ -29,6 +29,8 @@ https://dortania.github.io/OpenCore-Post-Install/gpu-patching/intel-patching/#ge
 Intel HD Graphics 530 (Skylake-S GT2) [S0/R0]
 Intel HD Graphics 530
 
+https://elitemacx86.com/threads/how-to-enable-intel-hd-and-uhd-graphics-on-macos-intel-framebuffer-patching-guide.931/
+
 (soporta hasta macOs 12 monterey)
 
 https://www.reddit.com/r/hackintosh/comments/l15mfh/cannot_boot_with_dual_monitor_intel_hd4600/
